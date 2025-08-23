@@ -1,0 +1,31 @@
+function - to perform specific task
+
+2 types 
+1. user defined  - we will create
+2. in built - python
+
+print()
+input()
+format()
+upper()
+lower()
+startswith()
+extend()
+
+
+functions - name , parameter ,return type
+
+name - print
+paramter - 
+return - output
+
+print(sep,end)
+
+sep = seperator
+end = endswith
+
+Comments  ---> Non exevcutable part of program 
+		for documentation purpose
+		
+	
+input  --> to accept input from user
