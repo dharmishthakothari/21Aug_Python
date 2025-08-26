@@ -29,3 +29,90 @@ Comments  ---> Non exevcutable part of program
 		
 	
 input  --> to accept input from user
+
+
+____________________________________________
+
+26th Aug
+
+installation - python
+		vs code - extension python 
+		
+	
+print 
+input 
+
+functions - it is set stmt/instructions for specific task
+
+print
+input
+format
+split
+
+in-built and user defined 
+1. in build - already thr print,input,split
+2. user defined - user created function 
+
+print("Hello")
+print("Hello Bhargavi ")
+print("This is python class")
+
+parameters print function
+sep , end
+
+-->    data type - which kind of data is there it is specified by data type
+-->    Variable  - it is store values 
+
+example of c/c++
+int c_no=7775755;
+string name="dharmishtha"
+
+python
+c_no = 7775989;  
+name="dhamrmishtha"
+
+variable c_no,name
+values = 7775989 , "dharmishtha"
+
+python data types 
+
+numeric , string ,seq ,map
+
+
+Lab task = take 3 different varaibles of float,int,string and print type
+
+input = to accept input from user
+
+input function return string 
+
+program 
+
+
+Enter number 1  = 20
+Enter number 2  = 30
+
+addition =  50
+
+type conversion  - str to int
+int()
+float
+
+practise - print with end - sep
+input
+type
+conversion
+
+
+
+
+
+
+
+
+type--> 
+
+
+
+
+
+
