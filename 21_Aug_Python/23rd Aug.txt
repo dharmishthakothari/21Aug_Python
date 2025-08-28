@@ -111,6 +111,92 @@ conversion
 
 type--> 
 
+28th Aug
+
+Python fetures 
+PEP 
+Operator
+
+escape sequnces 
+
+newline 
+
+\n
+\t tab
+\b backspace
+name = "Tops technologies"
+print(name)
+
+Tops technologies
+
+Tops "technologies"
+
+
+1 name="Tops\tTechnologies"
+2 name="Tops\bTechnologies"
+3. print("tops","technogies",sep="\n")
+4. print("tops","technogies",sep="\t")
+5. print("tops technogies",end="\n")
+6. print("tops technogies",end="\t")
+
+
+block of stmt
+{
+}
+
+indentation 
+block - indetation 
+
+naming  convenstion -  rules for naming
+
+lst_
+tpl_
+city
+num1
+num2
+float_num
+a=34.64564
+class Employee
+class Shape
+class Car
+
+print()
+
+comment  -  documentation purpose
+	   non executable part 
+	single line
+	multiple line
+
+reserve work / keyword 
+
+predefined word 
+
+if ,True,for 
+
+Type conversion == convert from one data type to anothor 
+
+number=input("Enter number ")
+print(type(number)) - class str
+
+# to convert number into int
+number1=int(number)
+
+# to convert number into float
+num2=float(number)
+
+list
+set
+
+__________
+split
+formate
+f
+
+
+
+	
+
+
 
 
 
