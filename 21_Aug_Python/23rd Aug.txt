@@ -190,7 +190,124 @@ set
 __________
 split
 formate
+
+2nd Sep 
+
+Type conversion 
+predefined word
+
+block of stmts
+comments 
+naming convesions
+escape sequences 
+
+PEP 8 
+
+Rules / syntax
+block stmt 
+for
+    stmt
+
+variables name
+- digits 
+- lphabet-_
+- case sensitive
+
+
+Operators
+
+	1. Arithmatic
+	2. Logical
+	3. Assignment
+	4. identity
+	5. membership
+	6. relational 
+
+
+1. Arithmatic 
+	calculation + , - , * , / , 
+	// (floor division) , ** (exponent) , 
+	%  (modules / reminder  )
+	10/2 = 5
+	10/3 = 3.31
+	10%3 = 1
+	10%2 = 0
+	
+	5**2 = 25
+	5**3 = 125
+
+
+	
+
+lab task 
+"Hello" ** 5
+
+format - .format	
 f
+
+addition of 100 and 10 is 110
+
+palceholder  - {}
+
+assignment - value assign 
+a=5
+a=100
+number1=90
+
+-->number1=90+10
+
+--> number1=number1+10
+
+--> number1+=10
+
+Lab task - %= , //= , **/
+
+--> comparison operator 
+
+>
+<
+>=
+<=
+==
+!=
+
+
+logical 
+
+and or not 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
