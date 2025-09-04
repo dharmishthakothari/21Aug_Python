@@ -277,6 +277,75 @@ logical
 and or not 
 
 
+4th Sep
+Operators - 
+		Arithmatic - +,-,/,*,//,**,%
+		Assignment  +=,*=,-....
+		comparison  ==,>=,<=,!=
+		Logical and or not (compound)	
+
+		num=120 num2=60
+		num>100 and num>num2 - both condition must be true 
+		120>100 and 120>60  - True
+	
+		num=50 num2 10
+		50>100 and 50>10 - False	
+
+		num>100 or num>num2 - either of condition is true it return tru
+		120>100 or 120>60  - True
+
+		num=50 num2 10
+		50>100 or 50>10 - True
+
+		membership operator
+			in not it
+
+		identity is nested list 
+		lst1 = [1,2,3,[2,3,4]]		
+		lst2 [2,3,4]
+		
+		 list with list type / value
+			== value
+		
+		
+		Conditional stmts ?
+		options/alternatives 
+		
+		if stmt
+		if-elif
+		if-elif-else
+		
+		if condtion:
+		    block
+
+		number=1
+		if number>0:
+			print("No is positive")
+
+		
+		multiple conditions 
+		age 0-2 infant
+		3-18 minor
+		19-50 adult
+		50 > seniur 
+
+	Lab task 
+		user accept Marks
+		Marks >70 Grade 'A'
+		marks 69 - 50 B
+		marks 49 - 35 C
+				Fail
+
+		
+
+	
+	
+
+		
+		
+
+
+	
 
 
 
