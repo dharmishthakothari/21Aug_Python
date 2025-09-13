@@ -516,6 +516,86 @@ num = 1221
 rev =1221 palidrome
 
 
+fibo series --- 0 1 1 2 3 5 8 13 21 34 55 ....
+
+1 iteration prev = 0
+			next=1
+			sum=prev+next
+
+2 iteration 
+			prev =next (1)
+			next =sum (1)
+			sum = prev+next  (2)
+
+3 iteration 
+		prev = next (1)
+		next =sum (2)
+		sumn = prev+next (3)
+
+4 iteration 
+		prev = next (2)
+		next = sum(3)
+		sum = prev+sum (5)
+
+	
+
+
+sum  
+next
+pre
+
+lab task -- swap numbers 
+
+num1 = 12
+num2 =22
+
+num2 =12
+num1=22
+
+
+temp = num1   ( temp =12
+num1=num2    ( num1 = 22)
+num2=temp    (num2 = 12)
+
+num1 , num2 = num2 , num1
+
+*
+*  *
+*  *  *
+*  *  *  *
+
+
+i=0 ,j=0 *
+i=0 
+
+for i in range(5):
+   print("*")
+
+i=0 j=0*
+i=1 j=0 j=1 *  *
+i=2 j=0 j=1 j =2 *  *  *
+*  *  *  *
+
+
+
+
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+1
+2 2
+3 3 3
+4 4 4 4
+
+
+Lab task * * * * *
+         * * * *
+         * * *
+         * *
+         *
 
 	
 
@@ -553,6 +633,7 @@ rev =1221 palidrome
 
 
 	
+
 
 
 
