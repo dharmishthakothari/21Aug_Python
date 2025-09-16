@@ -598,6 +598,53 @@ Lab task * * * * *
          *
 
 	
+16th Sep
+
+1
+3	3
+5	5	5
+7	7	7	7
+9	9	9	9	9
+
+break  - break loop 
+       
+continue - perticular condition pe current iteration skip and will continue with next iteration
+
+pass - nothing /placeholder
+
+
+String ---- sequence of characters , name , 
+"Enter your name "
+"Dharmihstha"
+"123456" - string
+123456 - number
+'Vishwaraj' - string
+'Visharaj909090' ---string
+
+ in built functions ---- () - already library ,we have to use /call 
+keywords - break , continue,if,elif,for , while ,pass 
+
+lower
+upper
+title
+capitalize
+
+
+access method
+string variable.method
+
+
+print  
+
+
+lab task --- accept 5 string user and
+			perform all 4 operations/methods
+			maintain ormatting
+
+Menu driven program
+armstrong
+number gussing - random
+
 
 
 
@@ -633,6 +680,7 @@ Lab task * * * * *
 
 
 	
+
 
 
 
