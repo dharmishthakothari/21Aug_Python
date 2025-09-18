@@ -628,11 +628,37 @@ lower
 upper
 title
 capitalize
+find
+count
+replace
+
+
+c_name = "Tops Technologies"
+T = 0
+o = 1
+p = 2
+s = 3
+ =  4
+T = 5
+e = 6
+c = 7
+h = 8
+n = 9
+
+sentence = "cat is animal and dog is animal"
 
 
 access method
 string variable.method
 
+
+str1 = "Tops"
+str2 = "12345"
+str3 = "Tops@123"
+str4 ="Tops tech"
+
+
+isdigit , isaplha , isalnum 
 
 print  
 
@@ -640,6 +666,11 @@ print
 lab task --- accept 5 string user and
 			perform all 4 operations/methods
 			maintain ormatting
+
+
+
+
+
 
 Menu driven program
 armstrong
@@ -680,6 +711,7 @@ number gussing - random
 
 
 	
+
 
 
 
