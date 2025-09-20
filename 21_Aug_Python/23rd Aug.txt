@@ -669,6 +669,47 @@ lab task --- accept 5 string user and
 
 
 
+String methods 
+
+	access string
+	string slicing
+	string indexing
+
+ Check email address is valid or not
+	input - "test@gmail.com"
+	output - test@gmail.com is valid email address
+
+	input - "test@gmail123"
+	output - test@gmail123 is invalid email address
+
+	indexing ? position 
+	T	0
+	o	1	
+	p	2
+
+	str[8] -- []--index no
+	-tive letters are from reverse 
+	
+	len- to find length of string
+	user input string access index 
+
+	string contains vowel or not
+	
+Lab task - print letters of string from reverse (thru index)
+	input - Abhijit
+	output - tijihbA
+
+	print(end="")
+
+	slicing --- part/portion 
+	str[1:4] (1,2,3)
+	str[1:10] (1,2,3,4,5,6,7,8,9)
+
+	str[start:end:step]
+
+	
+	
+	
 
 
 
@@ -711,6 +752,7 @@ number gussing - random
 
 
 	
+
 
 
 
