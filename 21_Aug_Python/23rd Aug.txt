@@ -707,8 +707,20 @@ Lab task - print letters of string from reverse (thru index)
 
 	str[start:end:step]
 
+23rd  Sep
 	
+	String --> Slicing 
+		indexing
+		access
+		in build methods
+		
+	Abhijit --> jitiAbhi
+	Ravi	--> viRa
 	
+
+Abhijit ---> tbhijiA
+Ravi ---> iavR
+Bharagvi  ---> iharagvB
 	
 
 
@@ -752,6 +764,7 @@ number gussing - random
 
 
 	
+
 
 
 
