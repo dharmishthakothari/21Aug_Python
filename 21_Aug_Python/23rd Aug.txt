@@ -797,6 +797,27 @@ list indexing
 list slicing
 
 
+27th Sep
+	list methods  - insert , extends , pop
+
+copy - changes in orginal observ output to copied list 
+= - changes in orginal observ output to copied list 
+
+lst1 = ['ahmebabad','Baroda','baroda','surat','baroda']
+   each city count 
+
+append
+insert
+index
+clear
+copy
+count
+extend
+del 
+pop
+sort
+reverse
+
 
 
 
@@ -836,6 +857,7 @@ list slicing
 
 
 	
+
 
 
 
