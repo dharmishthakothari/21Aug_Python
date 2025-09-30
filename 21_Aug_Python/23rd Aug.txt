@@ -818,8 +818,45 @@ pop
 sort
 reverse
 
+ 30th Sep  --- 
+    list methods 
+	list indexing and slicing 
 
 
+--- > Convert names into upper case from list 
+--> Find length of each string from list
+--> Find largest string from list
+--->create valid email id list from exsting list e.g lst=['test@gmail.com','test.com','qwett@gmail.com','fdgdfggmail.com']
+    output --- valid_email_lst = ['test@gmail.com','qwett@gmail.com']
+
+-->lst_number second higest num lst=[11,23,32,9,23]
+23   ?
+sort index 
+not inbuilt 
+logic if-else
+-->find no of vowels in string from list 
+input ['test','testa','tst']
+output [1,2,0]
+
+Tuple ---
+
+list vs tuple
+immutable 
+performance 
+() a=(1,2,3)
+a = 1,2,3  --tuple 
+
+a = [1,2,3]
+t=tuple(a)
+t=(1,2,3)
+
+List comprehensive --- short form , consice way , more readable form 
+lst1 lst2 add 
+for i in lst1:
+	lst2.append(i)
+
+lst2=[i for i in lst1]
+print(lst2)
 
 
 
@@ -857,6 +894,7 @@ reverse
 
 
 	
+
 
 
 
