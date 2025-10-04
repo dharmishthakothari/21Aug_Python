@@ -858,7 +858,12 @@ for i in lst1:
 lst2=[i for i in lst1]
 print(lst2)
 
+List -- Ordered , muttable , dublicate 
+Tuple -- imutable ,orderd , dublicate , permance wise its better then list
+Set -- not allowed dublicate items  , special methods (intersection , union ,difrence 
+Dictionary  - ordered , key - paired , mutable , key is unquie 
 
+shallow copy / deep copy --- find diffrence 
 
 
 
@@ -894,6 +899,7 @@ print(lst2)
 
 
 	
+
 
 
 
