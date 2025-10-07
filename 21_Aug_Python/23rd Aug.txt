@@ -896,6 +896,17 @@ Dictionary ---- word - meaning
 						2---> Baroda
 						3 --->  
 				
+Lab task -->Practise dictionary 
+
+dict1 = {101 : ['Dhruv','Parimal',90,80,70],
+         102 : ['Romil','C G Road' , 90,80,77],
+         205 : ['Dhruti' , 'Bhanagar' , 90,83,71],
+         207 : ['Dharmishtha' , 'Parimal' , 92,67,72]
+         }
+
+output fing grade 
+ans= ('dhruv',240),('Roamil',247),(),()
+
 				slicing
 				indexing 
 
@@ -935,6 +946,7 @@ Dictionary ---- word - meaning
 
 
 	
+
 
 
 
