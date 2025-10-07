@@ -865,7 +865,43 @@ Dictionary  - ordered , key - paired , mutable , key is unquie
 
 shallow copy / deep copy --- find diffrence 
 
+7th Oct 
 
+	Set - methods - intersection ,union ,diffrence ....
+			slicing 
+
+set_sub = {'Python','Java','SE'}
+		want to access last elements 
+print(set_sub[1:])
+set_sub[0]=Python
+[1]=java
+[2]=SE
+
+# -ve index
+
+min , max ,sum 
+Dictionary ---- word - meaning 
+				Good -  better,best 
+				map (location , address
+				Tops - near parimal , odd cg road
+
+				key and value paired 
+				key must be unique  , value may be dublicate 
+				{}
+				{key:value , key:value , key:value}
+
+				methods  - values , keys ,item ,setdefault ,  get
+						iterate 
+						1 --- >Ahemdabad
+						2---> Baroda
+						3 --->  
+				
+				slicing
+				indexing 
+
+
+
+	
 
 
 
@@ -899,6 +935,7 @@ shallow copy / deep copy --- find diffrence
 
 
 	
+
 
 
 
