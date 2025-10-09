@@ -911,6 +911,36 @@ ans= ('dhruv',240),('Roamil',247),(),()
 				indexing 
 
 
+9th OCt
+
+1. What is variable & What is data type?
+2. Which are the conditional statements Explain .
+3. Which are loops ? Differentiate .
+4. what is membership operator explain with example.
+5. what is string slicing ?
+6. write a code to check whether the string is palidrome or not  
+7. add float numbers from list and list items were added from user
+
+dictionary --- 
+key- value
+methods  - values ,keys,items 
+
+access dictionary with key 
+add items in dictionary 
+
+
+
+Lab task -- filtering 
+Merge 2 dictionary 
+dict1 = {1:"qwqwqw" , 2:"sdfsdf"}
+dict2 = {4:"sdfdsfdsf",2:"sdfsdf"}
+
+ans = {1:"qwqwqw" , 4:"sdfdsfdsf",2:"sdfsdf"}
+
+
+
+
+
 
 	
 
@@ -946,6 +976,7 @@ ans= ('dhruv',240),('Roamil',247),(),()
 
 
 	
+
 
 
 
