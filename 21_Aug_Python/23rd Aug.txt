@@ -939,8 +939,17 @@ ans = {1:"qwqwqw" , 4:"sdfdsfdsf",2:"sdfsdf"}
 
 
 
+11th oct 
+
+		1. city_names ={'Ahemedabad' : "AHEMEDABAD" , "baroda" : "BARODA" , "surat" : "SURAT"}
+		2. city_names ={'Ahemedabad' : 9 , "baroda" : 6 , "surat" : 5}
 
 
+
+Lab task :		3.  city_names ={'Ahemedabad' : 5 , "baroda" : 3 , "surat" : 2}
+
+		
+sales 
 
 	
 
@@ -976,6 +985,7 @@ ans = {1:"qwqwqw" , 4:"sdfdsfdsf",2:"sdfsdf"}
 
 
 	
+
 
 
 
