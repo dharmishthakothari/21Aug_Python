@@ -10,8 +10,7 @@ Write a program that takes a list of numbers and returns a tuple containing the 
 - Input: `[1, 2, 3, 4]`
 - Output: `(10, 24)`
 
-"Count frequency of list items and write in into dictionary :input List1 = [1, 2, 2, 3, 4, 1, 4, 5, 5, 6, 7, 7]
-output : {1: 2, 2: 2, 3: 1, 4: 2, 5: 2, 6: 1, 7: 2}"
+
 
 Accept a string from the user and print it in uppercase if the length of the string is greater than 5, else print it in lowercase using a function.
 
@@ -27,19 +26,49 @@ Write a Python program that uses `map()` to convert a list of strings to upperca
 
 Write a Python program that uses `map()` to apply a function that converts a list of temperature values in Celsius to Fahrenheit. Input: `[0, 25, 100]` Output: `[32.0, 77.0, 212.0]`
 
+Dictionary :
 
-"Find the total income from sales, considering only items that sold more than 100 units sales_data = [
+    "Count frequency of list items and write in into dictionary :input List1 = [1, 2, 2, 3, 4, 1, 4, 5, 5, 6, 7, 7]
+    output : {1: 2, 2: 2, 3: 1, 4: 2, 5: 2, 6: 1, 7: 2}"
+
+    "Find the total income from sales, considering only items that sold more than 100 units sales_data = [
     {""product"": ""Pen"", ""price"": 10, ""units_sold"": 150},
     {""product"": ""Notebook"", ""price"": 50, ""units_sold"": 90},
     {""product"": ""Pencil"", ""price"": 5, ""units_sold"": 300},
-]"
+    ]"
 
-"Write a prgram to extract unique values from List in dictionary (With Dict/Set comprehension) input dict_city_list = {'cityList1': ['Ahmedabad','Baroda', 'Bhopal', 'Mumbai'], 
+    "Write a prgram to extract unique values from List in dictionary (With Dict/Set comprehension) input dict_city_list = {'cityList1': ['Ahmedabad','Baroda', 'Bhopal', 'Mumbai'], 
       'cityList2': ['Baroda', 'Mumbai','Delhi', 'Chochi'], 
       'cityList3': [""Bhopal"",""Banglore"", ""Pune"", ""Mumbai""], 
       'cityList4': [""Delhi"",""Ahmedabad"", ""Pune"",""Chochi""]}
-Output {'Banglore', 'Delhi', 'Pune', 'Ahmedabad', 'Mumbai', 'Bhopal', 'Baroda', 'Chochi'}
-"
+    Output {'Banglore', 'Delhi', 'Pune', 'Ahmedabad', 'Mumbai', 'Bhopal', 'Baroda', 'Chochi'}
+    "
+
+
+    "Filter active adults and get their names in uppercase
+    users = [
+    {""name"": ""Alice"", ""age"": 25, ""active"": True},
+    {""name"": ""Bob"", ""age"": 17, ""active"": False},
+    {""name"": ""Charlie"", ""age"": 35, ""active"": True}
+    ]"
+
+
+    "Write a program to create a dictionary having data like {
+    Ahemdabad : ((""Ambawadi"", 380006) ,(""Bodakdev"",380054),(""Gandhi Ashram"",380027)),
+    Mumbai : ((""Mandvi"",400003),(""Mumbai Central"",400008),(""Worli"",400018))
+    } 
+
+    output If user enters Mumbai : then output is area Mandvi -->400003 , Mumbai Central --> 400008, Worli-->400018
+    if user enter 400018 then output  Worli , Mumbai
+    if user enters Mandvi then output is pin code is 400003 and it's in Mumbai"
+
+Lambda : 
+    find a list with maximum and minimum length using lambda.
+    Python program to sort a list of tuples using Lambda.
+    Fibonacci series up to n using Lambda
+    Rearrange positive and negative numbers in a given array using Lambda. (Use sorted function)
+
+
 
 create a class called "Book" with attributes for title, author, and ISBN, and methods to display book details.
 
@@ -60,3 +89,4 @@ Phone (brand, model, price) and PhoneInventory(add_phone,find_phone,remove_phone
 3. Find Phone in Inventory
 4. Display Inventory
 5. Quit
+
