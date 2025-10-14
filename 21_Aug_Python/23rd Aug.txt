@@ -951,6 +951,24 @@ Lab task :		3.  city_names ={'Ahemedabad' : 5 , "baroda" : 3 , "surat" : 2}
 		
 sales 
 
+
+14th oct
+	Dictionary --->  functions ,
+						filters
+						access ,
+						index
+				Dictionary comprehesive --> short form/readable form , code reduce
+
+				dict1 = {1:1 , 2:4 , 3:9 ,  4:16 , 5:25 }
+						key - 1-5
+						values - squares 
+
+Practise - comprehesive 
+
+ 
+
+
+
 	
 
 
@@ -985,6 +1003,7 @@ sales
 
 
 	
+
 
 
 
