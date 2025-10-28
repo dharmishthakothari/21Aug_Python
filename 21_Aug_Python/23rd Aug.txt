@@ -965,7 +965,35 @@ sales
 
 Practise - comprehesive 
 
- 
+28th Oct
+
+Functions and Module 
+---> functions are set of instruction to perform perticular task 
+	built in & user defined 
+    build in -- input(),print(),upper(),lower(),int(),list(),append()....
+	you can create your own function - user defined function
+
+	usign def keyword 
+   function declaration/definition
+	def function_name():
+		stmt
+		stmt
+		stmt
+//function call
+function_name()
+
+functions have parameter and return 
+
+return ? always return 
+
+user entering number and function return it's even/ODD
+Lab task : create function which accept a number and return "Prime" or "Not Prime"
+		   create function to check string is palidrome or not 
+
+			dharmishtha - Not palidrome
+			madam - palidrome
+
+
 
 
 
@@ -1003,6 +1031,7 @@ Practise - comprehesive
 
 
 	
+
 
 
 
