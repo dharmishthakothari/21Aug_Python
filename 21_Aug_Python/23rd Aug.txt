@@ -993,6 +993,40 @@ Lab task : create function which accept a number and return "Prime" or "Not Prim
 			dharmishtha - Not palidrome
 			madam - palidrome
 
+30th Oct 
+
+ -  functions 
+ created function 
+call function
+Types of functions 
+ - Default argument 
+ - keyword argument
+ - variable argument 
+
+def greet(name="Romil"):
+   print("Good monring ",name)
+greet("Dhruv")
+
+o/p - Good Morning Dhruv
+
+greet()
+o/p Good Morning Romil
+
+greet("Vishvraj")
+o/p Good Morning Vishwaj
+
+sequence is important 
+
+keyword argments 
+
+variable 
+	*args - variable legnth 
+
+Lab Task  : fix parameter name and other details may ne differ 
+
+
+
+	**kwargs
 
 
 
@@ -1031,6 +1065,7 @@ Lab task : create function which accept a number and return "Prime" or "Not Prim
 
 
 	
+
 
 
 
