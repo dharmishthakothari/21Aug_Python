@@ -68,7 +68,33 @@ Lambda :
     Fibonacci series up to n using Lambda
     Rearrange positive and negative numbers in a given array using Lambda. (Use sorted function)
 
+Function 
 
+   -  Write a function that accepts a list of numbers and returns the average of the numbers.
+ - Accept a string from the user and print it in uppercase if the length of the string is greater than 5, else print it in lowercase using a function.
+ - Write a function that accepts a list of numbers and returns a new list with only the numbers that are divisible by 3.
+- Write a function that accepts a list of numbers and returns a new list with the squares of all the numbers in the list.
+- Write a function that accepts a string and counts how many vowels are in the string.
+- Write a function that accepts a list of strings and returns the longest string in the list.
+- Write a function that accepts a number and checks if it is an Armstrong number.
+- Write a function that accepts a number and returns the sum of its digits.
+- Write a function that accepts a string and returns the string in alternating uppercase and lowercase characters.
+- Write a function that accepts a list of strings and returns a new list with only the strings that have an odd length.
+- Write a function that accepts a string and a substring, and returns True if the substring is found in the string, otherwise False.
+- Write a function that accepts a list of numbers and returns a new list with all the numbers that are divisible by both 2 and 3.
+- Write a function that accepts a string and returns True if the string is a valid email address (contains "@" and "."), otherwise False.
+- Write a function that accepts a list of integers and returns the second largest number in the list.
+- Write a function that accepts a list of numbers and returns the average of the numbers, excluding any zero values
+- Write a function that accepts two strings and returns the common characters between them
+- Write a function count_character(string, char) that accepts a string and a character, and returns the number of times the character appears in the string.
+- Write a function concatenate_with_separator(lst, separator) that accepts a list of strings and a separator string, then returns a new string where all elements of the list are joined using the separator.
+- Write a function merge_dicts(dict1, dict2) that accepts two dictionaries and returns a single dictionary that contains the merged key-value pairs from both dictionaries.
+- Write a function longest_word(sentence) that accepts a sentence and returns the longest word in the sentence.
+- Write a function create_frequency_dict(lst) that accepts a list and returns a dictionary where the keys are the elements of the list, and the values are the count of how often each element appears.
+- Write a function merge_lists_into_dict(list1, list2) that accepts two lists of equal length and merges them into a dictionary where the keys are the indices (0 to n-1) and the values are the elements from both lists.
+
+
+OOP
 
 create a class called "Book" with attributes for title, author, and ISBN, and methods to display book details.
 
@@ -89,4 +115,5 @@ Phone (brand, model, price) and PhoneInventory(add_phone,find_phone,remove_phone
 3. Find Phone in Inventory
 4. Display Inventory
 5. Quit
+
 
