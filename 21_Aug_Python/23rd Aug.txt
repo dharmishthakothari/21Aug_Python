@@ -1067,7 +1067,10 @@ input = 33 - not Prime
 input = 31 - prime 
 2 -30 
 
-	
+6th Nov
+    Scope - boundry 
+          
+     
 
 
 
@@ -1101,6 +1104,7 @@ input = 31 - prime
 
 
 	
+
 
 
 
