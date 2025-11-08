@@ -93,6 +93,16 @@ Function
 - Write a function create_frequency_dict(lst) that accepts a list and returns a dictionary where the keys are the elements of the list, and the values are the count of how often each element appears.
 - Write a function merge_lists_into_dict(list1, list2) that accepts two lists of equal length and merges them into a dictionary where the keys are the indices (0 to n-1) and the values are the elements from both lists.
 
+map()
+
+
+Write a Python program that uses the `map()` function to square each number in a given list of integers. Input: `[1, 2, 3, 4]` , Output: `[1, 4, 9, 16]`
+Write a Python program that uses `map()` to convert a list of strings to uppercase. Input: `['apple', 'banana', 'cherry']` - Output: `['APPLE', 'BANANA', 'CHERRY']`
+Write a Python program that uses `map()` to find the length of each string in a list of strings. Input: `['hello', 'world', 'python']` Output: `[5, 5, 6]`
+Write a Python program that uses `map()` to add a given number to each element in a list. - Input: `[1, 2, 3, 4]`, `5` Output: `[6, 7, 8, 9]`
+Write a Python program that uses `map()` to apply a function that converts a list of temperature values in Celsius to Fahrenheit. Input: `[0, 25, 100]` Output: `[32.0, 77.0, 212.0]`
+
+
 
 OOP
 
@@ -115,5 +125,6 @@ Phone (brand, model, price) and PhoneInventory(add_phone,find_phone,remove_phone
 3. Find Phone in Inventory
 4. Display Inventory
 5. Quit
+
 
 
