@@ -1070,7 +1070,17 @@ input = 31 - prime
 6th Nov
     Scope - boundry 
           
-     
+8th Nov 
+   map() - maps function to each element of iterable
+eg map(square,lst_number)
+square function aplies to each element of lst_number
+
+Lab task : convert those city into upper case whose length is more then 5
+Lab task :  Convert temperatures from Celsius to Fahrenheit
+
+reduce , lambda function 
+
+
 
 
 
@@ -1104,6 +1114,7 @@ input = 31 - prime
 
 
 	
+
 
 
 
