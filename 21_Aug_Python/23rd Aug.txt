@@ -1080,6 +1080,15 @@ Lab task :  Convert temperatures from Celsius to Fahrenheit
 
 reduce , lambda function 
 
+11th Nov
+reduce 
+lambda - function with no name 
+- single expression
+-annonymus function
+-arguments may be more 
+
+Lab task : repalce with lambda
+
 
 
 
@@ -1114,6 +1123,7 @@ reduce , lambda function
 
 
 	
+
 
 
 
