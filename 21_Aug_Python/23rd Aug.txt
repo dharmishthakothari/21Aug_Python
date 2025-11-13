@@ -1090,10 +1090,18 @@ lambda - function with no name
 Lab task : repalce with lambda
 
 
+13th Nov
 
+File Handling
+- open 
+- read
+- write/append/update
+- close
 
+Type - txt , json -xml -dictionary 
 
-
+ tell
+seek
  
 
 
@@ -1123,6 +1131,7 @@ Lab task : repalce with lambda
 
 
 	
+
 
 
 
