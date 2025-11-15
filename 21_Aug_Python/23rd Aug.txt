@@ -1103,6 +1103,44 @@ Type - txt , json -xml -dictionary
  tell
 seek
  
+15th Nov
+
+read from file
+	read - all content 
+	readline - single line reading
+	readlines  - all content inform list each line is as element of list
+write
+    - open file into "w"
+    - if file is exist then it iwll overrrite otherwise it create new file
+	- 
+console and write into file 
+Lab task : 
+ - Data should be entered upto "END" and also inserted into file
+Input enter data : This is Satruday morning
+					THis is My bday
+					Will have dinner party at night
+					END
+
+	with keyword 
+
+Lab task : above program with writelins 
+
+Lab Task : read data from one file and copy it into another file
+
+Menu Driven Program ,with function 
+1. read
+2. write
+3. copyFile
+4. append
+5. Exit
+
+1. Please enter fileName that you want to read 'File.txt'
+	output content of 
+
+menu 
+
+json 
+
 
 
 
@@ -1131,6 +1169,7 @@ seek
 
 
 	
+
 
 
 
