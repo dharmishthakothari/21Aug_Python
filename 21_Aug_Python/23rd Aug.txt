@@ -1141,8 +1141,49 @@ menu
 
 json 
 
+18th Nov
 
+	File reading/Writing 
+	json 
 
+Exception Handling 
+
+-	breaks execution due to unavoidable situation 
+- unexpeted error
+- runtime error
+	e.g File readign which doesn't exists
+	    incorrect input 
+	    access value from key and key doesn't exist
+        divide by 0
+
+ValueError
+ZeroDivisonError
+KeyError
+FileNotFoundError
+
+	Habdling 
+		try
+		except
+		raise
+		else
+		finally 
+
+single except block which handles all exception/errors
+
+you can have multiple except block 
+
+- except 
+
+-finally 
+     this block will excute always (whether error is thr or not)
+-else 
+     This will execute only when there is no error
+
+raise 
+   - custome exception 
+   - in build exception 
+
+OOPS
 
 
 
@@ -1169,6 +1210,7 @@ json
 
 
 	
+
 
 
 
