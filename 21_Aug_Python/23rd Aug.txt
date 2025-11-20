@@ -1183,7 +1183,93 @@ raise
    - custome exception 
    - in build exception 
 
-OOPS
+OOPS - 
+
+20th nov
+
+ - Exception Handling - 
+try 
+except 
+else
+finally 
+
+custom exception 
+ - you can create your own exception 
+
+Exception class built in 
+
+LenghtError - exception create 
+
+
+class LenghtError(Exception):
+	pass
+
+try:
+	stmt
+except lengthError
+
+OOPS - Programing Types
+Procedure - each are in procedure 
+OOP - each are iterms of object
+
+Java - oop
+python - oop
+C++ - hybrid
+
+Features ? 
+1. class   -> ?  Blueprint - template - structure - 
+				It is collection of objects 
+				It has data member and member functions 
+				state and behavoiur 
+				It is not actual entity 
+				Human is class 
+					data members - hands ,legs ,head , nose.......
+					functions - speaking,reading,eating ......
+
+				Employee is class
+						name , address ,salary .....
+						calcualteSalary , attendanceCalculation ....
+
+2. object 
+                1. is type of class
+				2. Real entity
+				3. instance of class
+				4. It have it's own data and memeber function 
+
+				Human azim
+				azim is object 
+				azim have data and functions 
+
+				Human dharmishtha
+				dharmishtha object
+
+__init__(self)  - constructor 
+		
+
+Lab Task : 
+
+Create Vehical data members (vehicalname ,model_name,price,color)
+                initlize with init method
+               and create method to display details of vehical 
+		scooter - scooter , Vespa-2020 , 80000 , Yellow
+	    car - Car , Hyundai , 220000, White
+
+2. Employee ename , address , salary ,department
+ create display() - which display details of employee
+
+
+
+3. inhertance
+4. Polymorphisum
+5. Encapsulation
+6. Abstraction
+
+
+
+Fetures 
+
+
+
 
 
 
@@ -1210,6 +1296,7 @@ OOPS
 
 
 	
+
 
 
 
