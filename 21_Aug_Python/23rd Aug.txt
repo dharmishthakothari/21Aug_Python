@@ -1268,6 +1268,37 @@ Create Vehical data members (vehicalname ,model_name,price,color)
 
 Fetures 
 
+22nd Nov
+
+Lab Task : Book add price ,qty , method calculatePriceBook 
+        -create List of books 
+        - create function which accept authur  and display those books 
+
+
+Inheritance - > parent child 
+- one class can use property of another class
+- resuablity 
+- 'is a relationship'
+- Shooter is Vehical
+-Car is Vehical 
+-Employee is Person
+-Student is Person
+
+Inhertiance Types 
+- Single inheritance 
+- Multilevel Inhertiance ( A extends b , B extends C - GrandParent-Parent-Child)
+- Multiple Inheritaace ( Mother-Father-Child Child can use proeprty of Mother and Father)
+- Hierchical Parent -Child1 - Child2 
+- Hibdrid - Mixture of any 2
+
+--Polymorphisum 
+ - more then one form 
+ - Person can play different role at diffrent place e.g Abhiit is student here , Son at home , Friend ,Employee 
+ - Ability to take more then one form 
+
+2 types 
+1. Compile time - Method Overloading (same method name diffrent argument), Operator Overloading 12+20 ,12*23 , Num *Num1 
+2. Run time - Method overriding (same method name same argument)
 
 
 
@@ -1296,6 +1327,7 @@ Fetures
 
 
 	
+
 
 
 
