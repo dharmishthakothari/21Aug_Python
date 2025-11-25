@@ -1300,6 +1300,28 @@ Inhertiance Types
 1. Compile time - Method Overloading (same method name diffrent argument), Operator Overloading 12+20 ,12*23 , Num *Num1 
 2. Run time - Method overriding (same method name same argument)
 
+25th Nov
+
+- operator overloading
+
+12+23 = 35
+12.01+23.43 = 
+e1+e2 = error 
+e1>e2 = error
+
+special methods/ dunder 
+__add__
+__mul__
+__div__
+gt
+eq
+lt
+
+Lab task :
+Employee age comparison 
+e1<e2
+e1==e2
+
 
 
 
@@ -1327,6 +1349,7 @@ Inhertiance Types
 
 
 	
+
 
 
 
