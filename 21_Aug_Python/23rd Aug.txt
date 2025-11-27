@@ -1322,6 +1322,51 @@ Employee age comparison
 e1<e2
 e1==e2
 
+27th Nov
+ - Abstraction ?
+    hiding the details shwoing only essential  details 
+  - 2 class , method 
+
+	def method_name():
+		pass
+
+	@abstractmethod
+	def menthod_name():
+		pass
+
+	abstract methods must have to override in child class
+	- if class have method as abstrac then that class must be abstract class
+     - you can not create object of abstract class
+
+class class_name(ABC):
+	pass
+
+
+calculate area of Shape 
+Rectagle  l*b
+Square 2*side
+
+
+Shape - calculateArea() must implement in sub class
+Rectagle l,b , calculateArea()- 
+Square - side , calculateArea()
+
+Lab task : 
+create Bank class
+method calculateInterest() - must be implements in sub classes
+
+create SBI - rate_of_interest = implements calculateIntersent ()
+AXIS - rate_of_interest= implements calculateInterest()
+
+- Encapsulation 
+ wrapping of data into single unit 
+-data hiding 
+functions that can access all
+data are may be private/protected 
+
+ - public
+_ - proctected
+__ private
 
 
 
@@ -1349,6 +1394,7 @@ e1==e2
 
 
 	
+
 
 
 
