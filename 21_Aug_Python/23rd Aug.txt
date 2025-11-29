@@ -1368,6 +1368,37 @@ data are may be private/protected
 _ - proctected
 __ private
 
+- OOPS 
+
+	1. class ? - Blueprint - attribute,methods, data member  and member function
+				- not actuak entity 
+				- collection objects
+	2. object - Type of class
+				real entity 
+				the object have thr own data and function 
+	3. Inheritance 
+				- Parent- child 
+				Property of one calss can use property of another class
+				reusability 
+				Types 
+	4. Polymprphisum
+			Many forms
+			Compile time - Method Overloading - same method name arguments are diffrenet ,thru variable argument you can achive it 
+			Run time - Method overriding - same methods name same parameter - Inheritance - 
+	5. Encapsulation - wraping of data and memeber functions into single unit 
+					Data private,procted 
+					getter-setter
+6. Abstraction - hiding details and showning only essential details
+				ABC
+				@abstractmethod
+				-can not abstract class
+
+
+Generator and iterator 
+
+Generator 
+ - memory management 
+
 
 
 
@@ -1394,6 +1425,7 @@ __ private
 
 
 	
+
 
 
 
