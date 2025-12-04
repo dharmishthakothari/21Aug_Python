@@ -1399,7 +1399,29 @@ Generator and iterator
 Generator 
  - memory management 
 
+4th Dec
 
+Regular Expression - 
+
+- pattern
+ string has numeric value 
+ email valid
+phone valid
+Start with '.....'
+String contains 'Good' word or not
+module  re
+
+mobile no must be +91-97876666
+					987987798
+
+
+[abc]
+[a-z]
+Lab Task : Differentiate search , match 
+finall all - how many contact numbers are thr in List 
+lst = ['test','23232344','sdfsdfdsf2323','33333333']
+\d{10}
+output 2 
 
 
 
@@ -1425,6 +1447,7 @@ Generator
 
 
 	
+
 
 
 
