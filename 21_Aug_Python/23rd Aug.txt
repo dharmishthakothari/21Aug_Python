@@ -1423,10 +1423,32 @@ lst = ['test','23232344','sdfsdfdsf2323','33333333']
 \d{10}
 output 2 
 
+6th Dec
+Full c_number with contry code 
+91 - india
+1 - usa
+33 natherlands
 
++91-9876543210
++1 - 0987654321
++49- 3455454 
++61 - 499 999 999 
 
+code 2 ya 3 {2,3}
+mobile no - 6-10 {6,10}
+6 ya 10 {6|10}
 
+r"\+\d{2,3}-\d{6,10}"
 
+l mail 
+username@domainname.com/in
+usesrna - lowercase , . ,_ ,digits 
+domainname - lowsercase , a-z 
+com | in 
+
+{} - size/length 2,5 
+[] - set of character/leeters/
+[gmail]+
 
 
  
@@ -1447,6 +1469,7 @@ output 2
 
 
 	
+
 
 
 
